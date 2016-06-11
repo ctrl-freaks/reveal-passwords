@@ -1,4 +1,4 @@
-![Chrome Extension](/artwork/github-888.png)
+![Chrome Extension](/artwork/github-888b.png)
 
 ## Reveal Passwords
 
